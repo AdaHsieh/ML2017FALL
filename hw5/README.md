@@ -23,16 +23,6 @@ Task Introduction
 > - keras.layers.Concatenate : concatenate two tensor
 
 
-
-> 
-- 1.Build Convolution Neural Network
-- 2.Build Deep Neural Network
-- 3.Analyze the Model by Confusion Matrix
-[Analysis] Plot the prediction into confusion matrix and describe what you observed.
-- 4.Analyze the Model by Plotting the Saliency Map
-[Analysis] Plot the saliency map of original image to see which part is important when classifying</
-- 5.Analyze the Model by Visualizing Filters
-
 Data format
 ----------------
 Training data: 899873
