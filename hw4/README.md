@@ -33,8 +33,7 @@ Preprocessing the sentences
 - 用一個向量(vector)表示字(詞)的意思
 
 > 1-of-N encoding
-> 
-Bag of Words (BOW)
+> Bag of Words (BOW)
 - BOW的概念就是將句子裡的文字變成一個袋子裝著這些詞的方式表現，
 這種表現方式不考慮文法以及詞的順序。
 
